@@ -1,0 +1,6 @@
+{
+  "name": "devcontainer-maven-scala",
+  "build": {
+    "dockerfile": "Dockerfile"
+  }
+}
